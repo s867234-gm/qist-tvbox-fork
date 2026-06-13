@@ -6,6 +6,13 @@
     {"key": "MDrive","name": "🗂我的云盘┃我配置","type": 3,"api": "csp_MyDriveGuard","changeable": 0,"indexs": 0,"searchable": 1,"style": {"type": "oval"},"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
     {"key": "抠搜","name": "🍄抠抠┃搜搜","type": 3,"api": "csp_KkSsGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
     {"key": "UC","name": "🌈优汐┃搜搜","type": 3,"api": "csp_UuSsGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
+    {"key": "米搜","name": "🦋米搜┃夸嘟","type": 3,"api": "csp_MIPanSoGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
+    {"key": "YpanSo","name": "🐟盘她┃夸父","type": 3,"api": "csp_YpanSoGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
+    {"key": "BpanSo","name": "🐞盘他┃嘟嘟","type": 3,"api": "csp_BpanSoGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
+    {"key": "看球","name": "⚽八八┃看球","type": 3,"api": "csp_KanqiuGuard","timeout": 10,"searchable": 0,"changeable": 0,"style": {"type": "list"}},
+    {"key": "多多","name": "🏀多多┃看球","type": 3,"api": "csp_DoubaoGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
+    {"key": "超全","name": "🏐吃瓜┃看球","type": 3,"api": "csp_LiveGzGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
+    {"key": "push_agent","name": "🛴手机┃推送","type": 3,"api": "csp_PushGuard","searchable": 0,"quickSearch": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
     {"key": "cc","name": "请勿信视频中任何广告","type": 3,"api": "csp_XPathGuard","searchable": 1,"quickSearch": 0,"changeable": 0}
   ],
   "rules": [
