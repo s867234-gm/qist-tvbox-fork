@@ -3,6 +3,7 @@
   "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
   "sites": [
     {"key": "drpy_js_豆瓣","name": "搜索 | 豆瓣[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
-    {"key": "二小","name": "二小｜4K","type": 3,"api": "csp_PanWebShare","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": {"site": ["https://www.2xiaopan.top","https://www.erxiaozhan.top","https://www.2xiaozhan.top"]},"timeout": 60}
+    {"key": "二小","name": "二小｜4K","type": 3,"api": "csp_PanWebShare","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": {"site": ["https://www.2xiaopan.top","https://www.erxiaozhan.top","https://www.2xiaozhan.top"]},"timeout": 60},
+    {"key": "配置中心","name": "配置｜中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.597}}
   ]
 }
