@@ -1,7 +1,7 @@
 {
   "spider": "./jar/spider.jar;md5;8ba0bc8fbba337a1e03042548a6054e2",
   "lives": [
-        {
+    {
       "name": "测试1",
       "type": 0,
       "playerType": 2,
