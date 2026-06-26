@@ -6,14 +6,13 @@
       "type": 0,
       "playerType": 2,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/ds.png"
-    },
-    {"name": "live","boot": false,"type": 0,"url": "./tv.txt","playerType": 2,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"}
+    }
   ],
   "wallpaper": "https://qist.cc/api/api.php",
   "sites": [
     {"key": "drpy_js_豆瓣","name": "搜索 | 豆瓣[js]","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/drpy.js","searchable": 1,"quickSearch": 0,"changeable": 0},
     {"key": "配置中心","name": "配置｜中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.597}},
-    {"key": "咕噜","name": "咕噜丨APP","type": 3,"api": "csp_App99","ext": {"host": "http://103.45.132.22:19987/app/bn","LoginPath": "/app/log","appkey": "d1f0c269eab74d93821fffc9befdbbba","versionName": "1.9.5","name": "咕噜咕噜","package": "com.bd.tool.gulu","buildNumber": "2001","buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"}}
-    {"key": "多多","name": "多多｜4K","type": 3,"api": "csp_PanWebShare","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": {"site": ["https://tv.yydsys.top","https://tv.yydsys.cc","https://tv.214521.xyz"]},"timeout": 60},
+    {"key": "咕噜","name": "咕噜丨APP","type": 3,"api": "csp_App99","ext": {"host": "http://103.45.132.22:19987/app/bn","LoginPath": "/app/log","appkey": "d1f0c269eab74d93821fffc9befdbbba","versionName": "1.9.5","name": "咕噜咕噜","package": "com.bd.tool.gulu","buildNumber": "2001","buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"}},
+    {"key": "多多","name": "多多｜4K","type": 3,"api": "csp_PanWebShare","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": {"site": ["https://tv.yydsys.top","https://tv.yydsys.cc","https://tv.214521.xyz"]},"timeout": 60}
   ]
 }
